@@ -16,4 +16,5 @@ Google collab по приколу <br />
 
 
 ## гифки для 0.2 балла
-![beaver-bober]([https://github.com/user-attachments/assets/b2c8ea86-f6e2-4d3d-b2d4-a38137789965](https://media1.tenor.com/m/kBZG3iLt4nMAAAAd/beaver-bober.gif))
+![beaver-bober](https://github.com/user-attachments/assets/b2c8ea86-f6e2-4d3d-b2d4-a38137789965)
+
